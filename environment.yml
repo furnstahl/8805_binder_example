@@ -4,5 +4,5 @@ channels:
 dependencies:
   - numpy
   - scipy
-  - matplotlib=3.2
+  - matplotlib
   - seaborn
