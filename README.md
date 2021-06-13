@@ -1,2 +1,2 @@
 # 8805_binder_example
-Test repository for BINDER examples for "Learning from Data" course
+Test repository for BINDER examples from "Learning from Data" course
