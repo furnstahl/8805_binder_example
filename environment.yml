@@ -1,4 +1,4 @@
-name: simple-environment
+name: simple-environment 
 channels:
   - conda-forge
 dependencies:
